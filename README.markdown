@@ -12,6 +12,7 @@ Click on the image to see it enlarged. Also see the following:
 * [Controllable gif](http://gifctrl.com/k8e)
 * [Video](https://raw.githubusercontent.com/robrechtdr/ripple_carry_adder/master/.misc/two_bit_input_ripple_carry_adder.mp4)
 
+You can play with the logical circuit yourself by opening the `two_bit_input_ripple_carry_adder.circ` file in logisim.
 
 ### What is this thing?
 
