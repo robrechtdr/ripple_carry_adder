@@ -16,7 +16,9 @@ You can play with the logical circuit yourself by opening the `two_bit_input_rip
 
 ### What is this thing?
 
-The ripple-carry adder is a particular type of design of the component of a computer that enables it to perform addition.
+This 'thing' in the image above shows an abstract circuit for a ripple-carry adder.
+
+A ripple-carry adder is a particular type of implementation of the component of a computer that enables it to perform addition.
 
 The 0 and 1 signals per binary digit from x and y are physically implemented by the respective absence and presence of an electric current.
 
