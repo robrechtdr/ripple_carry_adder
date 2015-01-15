@@ -1,6 +1,6 @@
 ripple_carry_adder
 ==================
-> An example of how an abstract operation (addition) can be implemented in a physical system.
+> An example of how an abstract operation (addition) can be performed by a physical system.
 
 The following shows a sequence of additions performed by a *2-bit input based ripple-carry adder (full ripple adder)*. Per step in the sequence one of the operands is increased by one such that the result shows a binary count from 0 up and until 100.
 
